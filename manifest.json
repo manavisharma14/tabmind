@@ -3,8 +3,9 @@
     "description": "Tab mind extension description",
     "version": "1.0",
     "manifest_version": 3,
+    "permissions": ["tabs"],
     "action": {
-        "defaut_popup": "home.html",
+        "default_popup": "home.html",
         "default_icon": "default_icon.png"
     }
 }
