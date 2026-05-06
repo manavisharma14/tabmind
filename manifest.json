@@ -1,0 +1,10 @@
+{
+    "name": "Tab Mind Extension",
+    "description": "Tab mind extension description",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "defaut_popup": "home.html",
+        "default_icon": "default_icon.png"
+    }
+}
